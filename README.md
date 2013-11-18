@@ -1,2 +1,4 @@
-# sailor
-### a Sails application
+sailor
+======
+
+a simple sails + node.js project
